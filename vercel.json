@@ -2,16 +2,5 @@
   "buildCommand": "npm run build",
   "outputDirectory": ".next",
   "installCommand": "npm install",
-  "framework": "nextjs",
-  "env": {
-    "NEXT_PUBLIC_SUPABASE_URL": "@next_public_supabase_url",
-    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@next_public_supabase_anon_key",
-    "SUPABASE_SERVICE_ROLE_KEY": "@supabase_service_role_key",
-    "NEXT_PUBLIC_CLICKUP_API_KEY": "@next_public_clickup_api_key",
-    "NEXT_PUBLIC_CLICKUP_TASK_LIST_ID": "@next_public_clickup_task_list_id",
-    "NEXT_PUBLIC_CLICKUP_CUSTOM_FIELD_ID": "@next_public_clickup_custom_field_id",
-    "QONTO_API_KEY": "@qonto_api_key",
-    "QONTO_ORGANIZATION_ID": "@qonto_organization_id",
-    "OPENAI_API_KEY": "@openai_api_key"
-  }
+  "framework": "nextjs"
 }
